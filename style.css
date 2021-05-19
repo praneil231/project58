@@ -1,0 +1,54 @@
+.marioclass{
+  height:300px;
+  width:300px;
+}
+body{
+  text-align:center;
+   background-image: linear-gradient(to right,green ,red, blue);
+  color:white;
+    font-family: 'Josefin Sans', sans-serif;
+}
+h1{
+  text-shadow:2px 2px magenta;
+}
+#bio{
+  font-size:18px;
+  padding:20px;
+    
+  
+}
+.menu{
+  list-style: none;
+    float: right;
+    
+}
+.menulink{
+    
+}
+#welcome{
+    
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+    text-align: right;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
